@@ -3,6 +3,12 @@
         "name": "Sea Blue",
         "colors": ["#2b5876", "#4e4376"]
     },
+    
+    {
+        "name": "Joel Comb",
+        "colors": ["#ffffff", "#000000"]
+    },
+    
     {
         "name": "Nimvelo",
         "colors": ["#314755", "#26a0da"]
